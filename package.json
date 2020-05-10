@@ -1,0 +1,22 @@
+{
+  "name": "typjs",
+  "version": "1.0.0",
+  "description": "typrescript work goes in here",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/BenGardiner123/TypJS.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/BenGardiner123/TypJS/issues"
+  },
+  "homepage": "https://github.com/BenGardiner123/TypJS#readme",
+  "devDependencies": {
+    "typescript": "^3.8.3"
+  }
+}
