@@ -4,7 +4,7 @@
   "description": "typrescript work goes in here",
   "main": "index.js",
   "scripts": {
-    "start": "tsc && node dist/index.js"
+    "start": "tsc && node dist/index.js",
     "build": "tsc"
   },
   "repository": {
